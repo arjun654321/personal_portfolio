@@ -6,4 +6,3 @@ I have created a simple portfolio
 
 - **HTML**
 - **CSS**
-- **JavaScript**
